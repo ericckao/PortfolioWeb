@@ -9,7 +9,7 @@ Meu primeiro portfólio Web colocando em pratica os meus conhecimentos atuais e 
 
 ## Layout mobile
 
- ![mobile-home](https://user-images.githubusercontent.com/88864793/224434372-044612b2-0554-4d4f-b22d-1169211bcf11.png)       ![mobile-nav](https://user-images.githubusercontent.com/88864793/224434310-64a7d5e7-bf1d-434a-a546-ecefb9aeb14d.png)
+ ![mobile-home](https://user-images.githubusercontent.com/88864793/224434372-044612b2-0554-4d4f-b22d-1169211bcf11.png)  ![mobile-nav](https://user-images.githubusercontent.com/88864793/224434310-64a7d5e7-bf1d-434a-a546-ecefb9aeb14d.png)
 
 
 
