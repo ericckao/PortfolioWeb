@@ -17,7 +17,7 @@ Meu primeiro portfólio Web colocando em pratica os meus conhecimentos atuais e 
 
 ![mobile-sobre](https://user-images.githubusercontent.com/88864793/224435505-0817b54a-46fd-4710-9e91-1f0e0cf5589f.png)
 
-![mobile-formacao](https://user-images.githubusercontent.com/88864793/224435603-d82f7821-4933-49b2-934a-2089a4f6fb7b.png)
+![image](https://user-images.githubusercontent.com/88864793/235689984-16e0c6b5-c8e3-4182-a422-b00ff42d1198.png)
 
 ![image](https://user-images.githubusercontent.com/88864793/224435359-ea0ccff3-f7bb-4fe5-9b72-30545ffaf0b0.png)
 
