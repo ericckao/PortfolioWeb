@@ -19,7 +19,7 @@ Meu primeiro portfólio Web colocando em pratica os meus conhecimentos atuais e 
 
 ![image](https://user-images.githubusercontent.com/88864793/235689984-16e0c6b5-c8e3-4182-a422-b00ff42d1198.png)
 
-![image](https://user-images.githubusercontent.com/88864793/224435359-ea0ccff3-f7bb-4fe5-9b72-30545ffaf0b0.png)
+![image](https://user-images.githubusercontent.com/88864793/235690292-9032eb71-854c-4a02-af68-718dd128cb33.png)
 
 
 # Tecnologias utilizadas
